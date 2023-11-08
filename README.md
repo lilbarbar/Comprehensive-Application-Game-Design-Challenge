@@ -2,6 +2,8 @@
 
 The game will be a local or online multiplayer game where players race through an obstacle course, fighting NPC minions to win. It is a simple game that will potentially use parody characters from popular shows (SpongeBob, Regular Show etc.) The purpose of the game is to be an enjoyable stress release for primarily children and teenagers (yet open to all ages), to play and have fun
 
+I will also potentially add a 2v2 mode similar to the clash royale game mode
+
 - **Value/Use:** A clear and explicit explanation of the value or use provided by the application/game.
 
 The game is purely for enjoyment and etnertainment puposes. However, it will also encourage bringing people together as it is a multiplayer game so people can have friendly competition and compete to play the game and have fun!
